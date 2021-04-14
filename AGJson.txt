@@ -1,5 +1,5 @@
 {
-"version": "AG v1",
+"version": "AG v2",
 "frequence explication": "frequence kithakem f chhal men click iban ads",
 
 		"Frequence": "6",
