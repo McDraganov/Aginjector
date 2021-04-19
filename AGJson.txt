@@ -31,9 +31,9 @@
 
 	"facebook": "badal li ltaht ila bghiti facebook",
 	
-	"FanInter": "2888102704739812_2888105708072845",
-	"FanBanner": "2888102704739812_2888103128073103",
-	"FanReward": "2888102704739812_2888106051406144",
+	"FanInter": "",
+	"FanBanner": "",
+	"FanReward": "",
 
 	"unity": "badal li ltaht ila bghiti unity",
 	
